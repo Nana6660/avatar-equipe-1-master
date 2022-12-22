@@ -1,0 +1,43 @@
+/* Pour afficher le diagramme UML:  
+   Window>Show view>Other>Plantuml
+   
+   La doc: http://plantuml.com/class-diagram
+*/
+
+@startuml
+ class Machine{	
+	ask(s:String):List[String]
+	reinit():Unit
+	test(l:List[String]):List[String]
+	}
+
+ class BaseDeDonnees{
+ 	 bddFormatListe: List[(String, String)]
+	 }
+ 
+ class Tools{
+	separationclefs(clefs: String): List[String]
+	lavage_essorage(requete: String): List[String]
+	clefDansRequete(separatedrequest: List[String], separatedkey: List[String]): Boolean
+	manqueUneLettre(mot1: String, mot2: String): Boolean
+	dansLaListe_Hamming(s: String, separatedrequest: List[String]): Boolean
+ }
+ 
+ class InterfaceGraphique{
+ }
+ 
+ class AnalysePhrase{
+ 	reponse(s:String):List[String]
+ }
+ 
+ class traitementxml{
+
+ }
+ 
+ InterfaceGraphique --> Machine
+ Machine --> AnalysePhrase
+ AnalysePhrase --> Tools
+ AnalysePhrase --> BaseDeDonnees
+ BaseDeDonnees --> traitementxml
+ 
+ @enduml

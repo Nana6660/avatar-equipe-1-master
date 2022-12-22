@@ -1,0 +1,86 @@
+* Mots déclenchant le changement de langue:
+- les variantes du mot bonjour (politesse)
+- les différents mots de recherche (recherche)
+- les noms de la langue (langue)
+
+
+Politesse:
+Français: bonjour,salut,bonsoir
+Anglais: hi,hello,morning,evening,afternoon,hey
+Espagnol: hola,buenos,dias
+Allemand: hallo,guten,morgen,tag,abend
+Italien: buongiorno,ciao,salve,buon,pomeriggio,buonasera,incantato
+
+Recherche:
+Français: recherche,cherche,ou,est,donc,trouve,trouver
+Anglais: seek,seeking,search,searching,look,looking,where,find
+Espagnol: donde,esta,busco,buscando
+Allemand: wo,ist,suche,suchen
+Italien: dove,trova,cerco,cercando
+
+Nom de langue:
+Français: français
+Anglais: english
+Espagnol: español
+Allemand: deutsch
+Italien: italiano
+
+
+Expressions de base:
+--------------------
+
+Français:
+oui
+non
+L'adresse de XXX est
+Je ne comprends pas votre demande
+Parlez-vous français?
+D'accord, quelle est votre demande?
+J'ai XXX réponses possibles
+Quel est votre choix?
+restaurant, creperie, pizzeria
+
+Anglais:
+yes
+no
+The address of XXX is
+I do not understand
+Do you speak english?
+OK, what is your query?
+I found XXX answers
+What is your choice?
+restaurant, creperie, pizzeria
+
+
+Espagnol:
+si
+no
+La dirección de XXX es
+No comprendo
+Hablas español?
+Está bien, cuál es tu petición?
+Tengo XXX opciones
+Cuál es su elección?
+restaurante, creperie, pizzeria
+
+Allemand:
+ja
+nein
+Die adresse von XXX ist
+Ich verstehe nicht
+Sprechen Sie Deutsch?
+Okay, was ist Ihr Wunsch?
+Ich habe XXX Antworten
+Was ist Ihre Wahl?
+restaurant, creperie, pizzeria
+
+Italien:
+si
+no
+Indirizzo di XXX è
+No capisco
+Parli italiano?
+Va bene, qual è la tua richiesta?
+Ho XXX risposte
+Qual è la vostra scelta?
+ristorante, creperie, pizzeria

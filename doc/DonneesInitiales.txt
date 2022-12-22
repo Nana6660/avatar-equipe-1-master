@@ -1,0 +1,7 @@
+Mairie de Rennes,Hôtel de ville,Mairie;Place de la Mairie
+Théâtre National de Bretagne,TNB,Théâtre de Bretagne;1, Rue Saint-Hélier
+Théâtre La Paillette,la Paillette;2, Rue du Pré de Bris
+Gare SNCF,Gare;19, Place de la Gare
+Cathédrale Saint-Pierre,Saint-Pierre,Cathédrale de Rennes, Cathédrale;Rue de la Monnaie
+Parlement de Bretagne, Parlement;Place du Parlement de Bretagne
+Roazhon Park, Stade de Rennes, Stade;111, Rue de Lorient 
